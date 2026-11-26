@@ -1,0 +1,70 @@
+{
+  "schema": 1,
+  "source": "tova-explore",
+  "generatedAt": "2026-11-26T08:40:13.546Z",
+  "slug": "upshotcoffee",
+  "name": "Upshot Coffee",
+  "city": "Christchurch",
+  "industry": {
+    "label": "Cafes",
+    "niche": "cafes",
+    "group": "Food & hospitality"
+  },
+  "contact": {
+    "phone": "+64276151039",
+    "email": "upshot@slingshot.co.nz",
+    "address": "131 Bridle Path Rd, Christchurch"
+  },
+  "social": {
+    "facebook": "https://www.facebook.com/175978076230"
+  },
+  "about": {
+    "overview": "Upshot Coffee is a boutique and 100% Fairtrade Organic certified roastery. We are committed to supplying you with the world's finest Fair Trade Organic coffee which we roast with love and care in small batches and can ship direct from our roastery to your door.",
+    "tagline": "Coffee With Kick !"
+  },
+  "before": {
+    "url": "http://www.upshotcoffee.co.nz/",
+    "domain": "upshotcoffee.co.nz",
+    "finalUrl": "https://upshotcoffee.co.nz/",
+    "title": "Home » Upshot Coffee",
+    "pages": 10,
+    "score": 71,
+    "assessedAt": "2026-11-21T13:19:22.516Z",
+    "issues": [
+      {
+        "id": "no-viewport",
+        "title": "Not mobile-friendly",
+        "evidence": "The page has no responsive viewport tag, so phones show a shrunken desktop layout."
+      },
+      {
+        "id": "no-contact-path",
+        "title": "No easy way to get in touch",
+        "evidence": "No tap-to-call link and no enquiry form on the homepage."
+      },
+      {
+        "id": "stale-copyright",
+        "title": "Looks out of date",
+        "evidence": "Footer copyright reads 2014, 12 years ago."
+      },
+      {
+        "id": "no-meta-desc",
+        "title": "No search description",
+        "evidence": "No meta description, so Google chooses random page text for search results."
+      },
+      {
+        "id": "no-schema",
+        "title": "No local-business search markup",
+        "evidence": "No structured data, so Google has less to show for the business."
+      }
+    ],
+    "screenshot": "screenshots/before-desktop.jpg"
+  },
+  "ours": {
+    "pagesUrl": "https://tova-studio.github.io/upshot-coffee/",
+    "repoUrl": "https://github.com/tova-studio/upshot-coffee",
+    "generator": "claude",
+    "accent": "#ff0000",
+    "screenshot": "screenshots/after-desktop.jpg",
+    "publishedAt": "2026-11-26T08:40:13.546Z"
+  }
+}
